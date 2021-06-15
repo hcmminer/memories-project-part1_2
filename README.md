@@ -10,7 +10,8 @@ Using React, Node.js, Express & MongoDB you'll learn how to build a Full Stack M
 By the end of this video, you will have a strong understanding of how the MERN Stack works.
 
 Setup:
-- run ```npm i && npm start``` for both client and server side to start the app
-Github error: 
+- run ```npm i && npm start``` for both client and server side to start the app  
+
+Github error:  
 - rm -rf .git // loại xóa .git ở cha và con
 - git init ->>>...
